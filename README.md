@@ -47,7 +47,7 @@ This project builds a complete data pipeline and dashboard system to:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Programming:** Python  
 - **Libraries:** Pandas, NumPy, RapidFuzz  
@@ -77,9 +77,10 @@ This project builds a complete data pipeline and dashboard system to:
 
 ---
 
-## 📸 Dashboard Preview
+##  Dashboard Preview
 
-*(Add screenshots here)*
+* <img width="641" height="394" alt="image" src="https://github.com/user-attachments/assets/b14aace8-e1f2-441d-8cd5-1e6d747946fa" />
+
 
 ---
 
